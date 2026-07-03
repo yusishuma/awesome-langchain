@@ -54,7 +54,7 @@ List of non-official ports of LangChain to other languages.
 - [Langchain-rust](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
 ## Tools
-- [langchain-tool-gate](https://github.com/yusishuma/langchain-tool-gate) — A lightweight tool management plugin for LangChain that adds approval workflows and dynamic activation for tools.
+
 ### Low-code
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
