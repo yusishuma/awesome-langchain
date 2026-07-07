@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://api.github.com/repos/kyrolabs/awesome-langchain/issues/comments/4872113902",
+    "html_url": "https://github.com/kyrolabs/awesome-langchain/pull/437#issuecomment-4872113902",
+    "issue_url": "https://api.github.com/repos/kyrolabs/awesome-langchain/issues/437",
+    "id": 4872113902,
+    "node_id": "IC_kwDOJDsxLM8AAAABImaO7g",
+    "user": {
+      "login": "yusishuma",
+      "id": 6279534,
+      "node_id": "MDQ6VXNlcjYyNzk1MzQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6279534?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yusishuma",
+      "html_url": "https://github.com/yusishuma",
+      "followers_url": "https://api.github.com/users/yusishuma/followers",
+      "following_url": "https://api.github.com/users/yusishuma/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yusishuma/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yusishuma/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yusishuma/subscriptions",
+      "organizations_url": "https://api.github.com/users/yusishuma/orgs",
+      "repos_url": "https://api.github.com/users/yusishuma/repos",
+      "events_url": "https://api.github.com/users/yusishuma/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yusishuma/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-07-03T02:41:16Z",
+    "updated_at": "2026-07-03T02:41:16Z",
+    "body": "Hi @botbocks @awesome-langchain/maintainers,\r\nI'd like to ask about this PR—it shows \"Closed with unmerged commits.\" I didn't close it myself, so I'm wondering if there's an issue with the submission or if it was auto-closed due to some reason.\r\n\r\nIf the project doesn't meet the inclusion criteria, I'm happy to adjust anything needed. If it was just a misclick or auto-close, could you please reopen it or let me know if I should submit a new PR?\r\n\r\nProject link: https://github.com/yusishuma/langchain-tool-gate\r\nThanks for your time!",
+    "author_association": "NONE",
+    "reactions": {
+      "url": "https://api.github.com/repos/kyrolabs/awesome-langchain/issues/comments/4872113902/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null
+  }
+]
