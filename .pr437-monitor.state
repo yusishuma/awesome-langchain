@@ -1,0 +1,9 @@
+[
+  {
+    "id": 4872113902,
+    "user": "yusishuma",
+    "created_at": "2026-07-03T02:41:16Z",
+    "body": "Hi @botbocks @awesome-langchain/maintainers,\r\nI'd like to ask about this PR—it shows \"Closed with unmerged commits.\" I didn't close it myself, so I'm wondering if there's an issue with the submission or if it was auto-closed due to some reason.\r\n\r\nIf the project doesn't meet the inclusion criteria, I'm happy to adjust anything needed. If it was just a misclick or auto-close, could you please reopen it or let me know if I should submit a new PR?\r\n\r\nProject link: https://github.com/yusishuma/langchain-tool-gate\r\nThanks for your time!",
+    "kind": "issue"
+  }
+]
